@@ -10,10 +10,17 @@ Machine learning is an exciting and rapidly evolving field that offers endless p
 # Topics Covered
 
 Fundamentals of machine learning
+
 Supervised learning (classification, regression)
+
 Unsupervised learning (clustering, dimensionality reduction)
+
 Deep learning and neural networks
+
 Natural language processing (NLP)
+
 Computer vision
+
 Reinforcement learning
+
 And much more!
