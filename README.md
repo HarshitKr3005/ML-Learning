@@ -15,12 +15,4 @@ Supervised learning (classification, regression)
 
 Unsupervised learning (clustering, dimensionality reduction)
 
-Deep learning and neural networks
 
-Natural language processing (NLP)
-
-Computer vision
-
-Reinforcement learning
-
-And much more!
